@@ -3,7 +3,7 @@
 
 ## The Data
 
-The data is retail sales data at a fictional superstore. Here's the key:
+The data is retail sales data at a fictional superstore located in the Sample - Superstore csv. Here's the key:
 
 Row ID => Unique ID for each row.
 Order ID => Unique Order ID for each Customer.
