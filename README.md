@@ -5,10 +5,14 @@
 
 The data is retail sales data at a fictional superstore located in the Sample - Superstore csv. Here's the key:
 
-Row ID => Unique ID for each row.\n
-Order ID => Unique Order ID for each Customer.\n
-Order Date => Order Date of the product.\n
-Ship Date => Shipping Date of the Product.\n
+Row ID => Unique ID for each row.
+
+Order ID => Unique Order ID for each Customer.
+
+Order Date => Order Date of the product.
+
+Ship Date => Shipping Date of the Product.
+s
 Ship Mode=> Shipping Mode specified by the Customer.
 Customer ID => Unique ID to identify each Customer.
 Customer Name => Name of the Customer.
