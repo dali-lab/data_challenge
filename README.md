@@ -32,6 +32,10 @@ Profit => Profit/Loss incurred.
 Describe the dataset given with three or more data visualizations. These can be maps, histograms, line graphs, 
 combinations of those, or anything else. It can be a time-series, or an interactive plot.
 
+Think, if you could only show someone these graphs to describe most of the data, what graphs would you choose.
+
+Design matters, making this beautiful matters.
+
 The sky is the limit!
 
 
@@ -43,6 +47,6 @@ Here's a chance to showcase your data science skills!
 
 Model this data! Predict some outcome, make some claims, show your work, analysee it statistically, and tell us your thinking all the way through.
 
-Be creative, think big!
+Be creative, think big, and report your findings in a clean, clear way!
 
 Email osman.khan@dali.dartmouth.edu with questions!
