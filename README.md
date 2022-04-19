@@ -65,7 +65,7 @@ Part 2 is more free-form, and allows you to showcase YOUR specific skillset.
 
 Here's a chance to showcase your data science skills!
 
-Model this data! Predict some outcome, make some claims, show your work, analysee it statistically, and tell us your thinking all the way through.
+Model this data! Predict some outcome, make some claims, show your work, analyse it statistically, and tell us your thinking all the way through. You can do machine learning, or deep learning or statistical analysis. Whatever interests you, go for it!
 
 Be creative, think big, and report your findings in a clean, clear way!
 
