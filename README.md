@@ -1,4 +1,4 @@
-# DALI Data Challenge 22X + 22S
+# DALI Data Challenge 22F
 
 
 ## The Data
