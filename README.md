@@ -1,4 +1,4 @@
-# DALI Data Challenge 22X + 22S
+# DALI Data Challenge 22F
 
 
 ## The Data
@@ -69,4 +69,4 @@ Model this data! Predict some outcome, make some claims, show your work, analyse
 
 Be creative, think big, and report your findings in a clean, clear way!
 
-Email osman.khan@dali.dartmouth.edu with questions!
+Email brian.wang@dali.dartmouth.edu with questions!
